@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1608928636 source:d:\study materials\year 2\term 1\oop\c++\assignment 2\main.cpp
+	<cstring>
+	<iostream>
+	<string>
+	"UserList.h"
+	"UserList.cpp"
+	"BookList.h"
+	"BookList.cpp"
+
+1608847950 d:\study materials\year 2\term 1\oop\c++\assignment 2\user.h
+	<cstring>
+	<string>
+	<iostream>
+
+1608847476 d:\study materials\year 2\term 1\oop\c++\assignment 2\book.h
+	"User.h"
+
+1608915487 d:\study materials\year 2\term 1\oop\c++\assignment 2\userlist.h
+	"User.h"
+
+1608912659 d:\study materials\year 2\term 1\oop\c++\assignment 2\user.cpp
+	<iostream>
+	"User.h"
+
+1608923028 d:\study materials\year 2\term 1\oop\c++\assignment 2\userlist.cpp
+	<iostream>
+	"User.h"
+	"User.cpp"
+	"UserList.h"
+
+1608907834 d:\study materials\year 2\term 1\oop\c++\assignment 2\book.cpp
+	<iostream>
+	"User.h"
+	"Book.h"
+
+1608927744 d:\study materials\year 2\term 1\oop\c++\assignment 2\booklist.h
+	"User.h"
+	"Book.h"
+	"UserList.h"
+
+1608927815 d:\study materials\year 2\term 1\oop\c++\assignment 2\booklist.cpp
+	<string>
+	<cstring>
+	<iostream>
+	"User.h"
+	"Book.h"
+	"Book.cpp"
+	"BookList.h"
+
